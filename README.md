@@ -1,6 +1,10 @@
 # Andrew's Flutter Ecommerce App
 
-## [Watch the Demo Video](./ecommerce_app.mp4)
+## Demo Video
+
+<iframe src="https://player.vimeo.com/video/1122740954?autoplay=1&loop=1&autopause=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on Vimeo](https://vimeo.com/1122740954?share=copy)
 
 Andrew's Flutter Ecommerce App | Modern UI Design
 
