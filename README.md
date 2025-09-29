@@ -2,9 +2,15 @@
 
 ## Demo Video
 
-<iframe src="https://player.vimeo.com/video/1122740954?autoplay=1&loop=1&autopause=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+[![Flutter Ecommerce App Demo](https://img.shields.io/badge/🎥_Watch_Demo_Video-FF0000?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1122740954?share=copy)
 
-[Watch on Vimeo](https://vimeo.com/1122740954?share=copy)
+**Click the button above to watch the complete demo video showcasing:**
+- Modern UI design with smooth animations
+- Product grid and category navigation
+- Product details with Hero transitions
+- Complete shopping experience
+
+[Direct Vimeo Link](https://vimeo.com/1122740954?share=copy)
 
 Andrew's Flutter Ecommerce App | Modern UI Design
 
