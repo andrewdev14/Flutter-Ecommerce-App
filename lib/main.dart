@@ -1,6 +1,6 @@
-import 'package:ecommerce_app/constants.dart';
-import 'package:ecommerce_app/screens/home/home_screen.dart';
-import 'package:ecommerce_app/size_config.dart';
+import 'package:andrewdev14_ecommerce_app/constants.dart';
+import 'package:andrewdev14_ecommerce_app/screens/home/home_screen.dart';
+import 'package:andrewdev14_ecommerce_app/size_config.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

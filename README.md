@@ -1,10 +1,10 @@
-# Flutter Ecommerce App UI
+# Andrew's Flutter Ecommerce App
 
-## [Watch it on YouTube](https://youtu.be/bCAOaP5O2UY)
+## [Watch the Demo Video](./ecommerce_app.mp4)
 
-Flutter Ecommerce App UI | Speed Code
+Andrew's Flutter Ecommerce App | Modern UI Design
 
-In this video we will create two screens for ecommerce app using #flutter. In Home screen there will be items grid and category selector. In Details screen we display selected item details. We using #Hero widget to implement #animation.
+This Flutter ecommerce application features a modern UI with two main screens: Home screen with product grid and category selector, and Details screen displaying selected item details. The app uses Hero widgets for smooth animations and includes a complete shopping experience.
 
 ### Preview
 
